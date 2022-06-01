@@ -1,0 +1,9 @@
+code: point-2-d-details-widget
+titles:
+  en: Point 2 D Details Widget
+  it: Point 2 D Details Widget
+group: free
+apiClaims:
+  - name: int-api
+    type: internal
+    serviceId: ea46c63a-lcorsettientando-myapp-2-mysql
