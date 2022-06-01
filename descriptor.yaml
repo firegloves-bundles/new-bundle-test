@@ -6,8 +6,8 @@ components:
     - plugins/my-plugin.yaml
 
   widgets:
-    - widgets/detailsWidget/point-2-d-details-widget-descriptor.yaml
-    - widgets/formWidget/point-2-d-form-widget-descriptor.yaml
-    - widgets/tableWidget/point-2-d-table-widget-descriptor.yaml
+    - widgets/details-widget.yaml
+    - widgets/form-widget.yaml
+    - widgets/table-widget.yaml
 # entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
 
