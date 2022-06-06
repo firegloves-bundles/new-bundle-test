@@ -1,3 +1,5 @@
+descriptorVersion: v2
+
 code: new-bundle-test
 description: This is the bundle to test the new structure
 
