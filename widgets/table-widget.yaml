@@ -8,3 +8,5 @@ apiClaims:
   - name: int-api
     type: internal
     serviceId: c7b80698-lcorsettientando-myapp-2-mysql
+customUi: '<#assign wp=JspTaglibs["/aps-core"]><div class="ApplyBanner"><img  class="ApplyBanner__image-imposed" src="<@wp.resourceURL />bundles/new-bundle-test-f13d35ad/assets/inTheJail.jpg"  /></div>'
+
