@@ -6,7 +6,7 @@ components:
     - plugins/my-plugin.yaml
 
   assets:
-    - assets/jail.yaml
+    - assets/jail/jail.yaml
 
   widgets:
     - widgets/details-widget.yaml
