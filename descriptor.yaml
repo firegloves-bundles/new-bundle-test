@@ -5,6 +5,9 @@ components:
   plugins:
     - plugins/my-plugin.yaml
 
+  assets:
+    - assets/jail.yaml
+
   widgets:
     - widgets/details-widget.yaml
     - widgets/form-widget.yaml
