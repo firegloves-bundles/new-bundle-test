@@ -8,3 +8,4 @@ apiClaims:
   - name: int-api
     type: internal
     serviceId: c7b80698-lcorsettientando-myapp-2-mysql
+customElement: point-2-d-details-new
