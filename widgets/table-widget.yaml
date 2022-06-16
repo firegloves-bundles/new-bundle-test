@@ -7,9 +7,9 @@ group: free
 apiClaims:
   - name: int-api
     type: internal
-    serviceId: c7b80698-lcorsettientando-myapp-2-mysql
+    pluginName: new-bundle-plugin
   - name: ext-api
     type: external
     bundleId: ed7050db
-    serviceId: c7b80698-lcorsettientando-myapp-2-mysql
+    pluginName: myapp-2-mysql-service
 customElement: point-2-d-table-new
