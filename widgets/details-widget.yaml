@@ -7,5 +7,5 @@ group: free
 apiClaims:
   - name: int-api
     type: internal
-    pluginName: c7b80698-lcorsettientando-myapp-2-mysql
+    pluginName: new-bundle-plugin
 customElement: point-2-d-details-new
