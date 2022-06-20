@@ -1,6 +1,6 @@
 descriptorVersion: v5
 
-code: new-bundle-test
+name: new-bundle-test
 description: This is the bundle to test the new structure
 
 components:
