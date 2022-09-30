@@ -4,8 +4,8 @@ titles:
   en: Point 2 D Details Widget
   it: Point 2 D Details Widget
 group: free
-apiClaims:
-  - name: int-api
-    type: internal
-    pluginName: new-bundle-plugin
+#apiClaims:
+#  - name: int-api
+#    type: internal
+#    pluginName: new-bundle-plugin
 customElement: point-2-d-details-new

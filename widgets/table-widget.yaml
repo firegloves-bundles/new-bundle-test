@@ -4,12 +4,12 @@ titles:
   en: Point 2 D Table Widget
   it: Point 2 D Table Widget
 group: free
-apiClaims:
-  - name: int-api
-    type: internal
-    pluginName: new-bundle-plugin
-  - name: ext-api
-    type: external
-    bundleId: ed7050db
-    pluginName: myapp-2-mysql-service
+#apiClaims:
+#  - name: int-api
+#    type: internal
+#    pluginName: new-bundle-plugin
+#  - name: ext-api
+#    type: external
+#    bundleId: ed7050db
+#    pluginName: myapp-2-mysql-service
 customElement: point-2-d-table-new
